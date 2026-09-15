@@ -1,5 +1,7 @@
 # Nova Hero Card
 
+![Nova Hero Card](screenshot.png)
+
 A small animated status card for Home Assistant dashboards — a breathing
 ember/gold "stellar core" orb next to the current time and date, with status
 chips for your alarm panel and how many lights are on. Built to match
